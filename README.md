@@ -121,7 +121,6 @@
 2.	Manage to solve project issues.
 3.	Training User.
 
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
