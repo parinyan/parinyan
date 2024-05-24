@@ -135,6 +135,7 @@
 **BANGCHAK** 
 <br/>
 1. Contract Management
+<img src="img/pot-bcp-1_1.png">
 
 **BRIDGESTONE** 
 <br/>
