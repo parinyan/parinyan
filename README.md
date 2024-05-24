@@ -91,6 +91,7 @@
 [Fusion Soft Co., Ltd](https://www.fusionsoft.co.th/) 
 <br/>
 **September 2022 – Current** 
+<br/>
 **Backend Developer** 
 <br/>
 1.	Design Database and Develop API by Document SRS.
@@ -104,6 +105,7 @@
 [Thai Summit Harness Public Company Limited.](https://www.tshpcl.com/) 
 <br/>
 **August 2018 – August 2022** 
+<br/>
 **Programmer** 
 <br/>
 1.	Design database and develop web application by user requirement.
@@ -118,6 +120,7 @@
 [Maxxis International (Thailand) Co.,Ltd.](https://www.maxxis.co.th/MIT/index.asp) 
 <br/>
 **July 2017 – August 2018** 
+<br/>
 **Programmer** 
 <br/>
 1.	Analyze user requirement, Design and develop windows application.
@@ -129,4 +132,8 @@
 ###
 
 ## PORTFOLIO LIST:
+**July 2017 – August 2018** 
+<br/>
+**Programmer** 
+<br/>
 ###
