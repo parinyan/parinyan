@@ -140,4 +140,5 @@
 **BRIDGESTONE** 
 <br/>
 1. Automatic Tire QC Check
+<img src="img/pot-bst-1_1.png">
 ###
