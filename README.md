@@ -84,6 +84,24 @@
 
 ###
 
+## Experience:
+
+![Homerti](https://www.homerti.com/svg/logo.svg)
+<br/>
+[Homerti](https://www.homerti.com/es) 
+<br/>
+**September 2023 - December 2023** 
+<br/>
+Professional training internship contract where I did web maintenance tasks with Laravel and Vue to a main product
+
+![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
+<br/>
+[Tec-Soft](https://tec-soft.es/) 
+<br/>
+**May 2022 - July 2022** 
+<br/>
+Business desktop software development in Delphi Seattle, where I did teamwork and mantain the main products of the business solving issues in real time.
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
