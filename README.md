@@ -111,7 +111,7 @@
 5.	Build and install API for Windows Server.
 6.	Create document manual.
 
-![Maxxis International (Thailand) Co.,Ltd.](img/logo-maxxis.png)
+![Maxxis International (Thailand) Co.,Ltd.](img/logo-tsh.png)
 <br/>
 [Maxxis International (Thailand) Co.,Ltd.](https://www.maxxis.co.th/MIT/index.asp) 
 <br/>
