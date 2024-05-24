@@ -86,19 +86,19 @@
 
 ## Experience:
 
-![FUSION SOFT](img/logo-fusion.png)
+![Fusion Soft Co., Ltd](img/logo-fusion.png)
 <br/>
-[FUSION SOFT](https://www.fusionsoft.co.th/) 
+[Fusion Soft Co., Ltd](https://www.fusionsoft.co.th/) 
 <br/>
-**September 2023 - December 2023** 
+**September 2022 – Current** 
 <br/>
 Professional training internship contract where I did web maintenance tasks with Laravel and Vue to a main product
 
-![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
+![Thai Summit Harness Public Company Limited.](img/logo-tsh.png)
 <br/>
-[Tec-Soft](https://tec-soft.es/) 
+[Thai Summit Harness Public Company Limited.](https://www.tshpcl.com/) 
 <br/>
-**May 2022 - July 2022** 
+**August 2018 – August 2022** 
 <br/>
 Business desktop software development in Delphi Seattle, where I did teamwork and mantain the main products of the business solving issues in real time.
 
