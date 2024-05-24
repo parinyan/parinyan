@@ -86,9 +86,9 @@
 
 ## Experience:
 
-![Homerti](https://www.homerti.com/svg/logo.svg)
+![FUSION SOFT](https://www.fusionsoft.co.th/img/logo-main.b9903e28.png)
 <br/>
-[Homerti](https://www.homerti.com/es) 
+[FUSION SOFT](https://www.fusionsoft.co.th/) 
 <br/>
 **September 2023 - December 2023** 
 <br/>
