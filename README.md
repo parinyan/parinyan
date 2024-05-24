@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="img_profile.jpg"  />
+  <img height="150" src="img/profile.jpg"  />
 </div>
 
 ###
@@ -86,7 +86,7 @@
 
 ## Experience:
 
-![FUSION SOFT](https://www.fusionsoft.co.th/img/logo-main.b9903e28.png)
+![FUSION SOFT](img/logo-fusion.png)
 <br/>
 [FUSION SOFT](https://www.fusionsoft.co.th/) 
 <br/>
