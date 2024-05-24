@@ -132,8 +132,11 @@
 ###
 
 ## PORTFOLIO LIST:
-**July 2017 – August 2018** 
+**BANGCHAK** 
 <br/>
-**Programmer** 
+1. Contract Management
+
+**BRIDGESTONE** 
 <br/>
+1. Automatic Tire QC Check
 ###
