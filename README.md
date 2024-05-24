@@ -92,7 +92,11 @@
 <br/>
 **September 2022 – Current** 
 <br/>
-Professional training internship contract where I did web maintenance tasks with Laravel and Vue to a main product
+1.	Design Database and Develop API by Document SRS.
+2.	Develop Program for SharePoint Migration.
+3.	Check and improve to solve project issues.
+4.	Build and install API for Windows Server.
+5.	Create document for Technical Specification.
 
 ![Thai Summit Harness Public Company Limited.](img/logo-tsh.png)
 <br/>
@@ -100,7 +104,23 @@ Professional training internship contract where I did web maintenance tasks with
 <br/>
 **August 2018 – August 2022** 
 <br/>
-Business desktop software development in Delphi Seattle, where I did teamwork and mantain the main products of the business solving issues in real time.
+1.	Design database and develop web application by user requirement.
+2.	Coordinate with suppliers to solve problems on Oracle ERP System.
+3.	Design report using program QlikView by user requirement. 
+4.	Check and improve to solve project issues.
+5.	Build and install API for Windows Server.
+6.	Create document manual.
+
+![Maxxis International (Thailand) Co.,Ltd.](img/logo-maxxis.png)
+<br/>
+[Maxxis International (Thailand) Co.,Ltd.](https://www.maxxis.co.th/MIT/index.asp) 
+<br/>
+**July 2017 – August 2018** 
+<br/>
+1.	Analyze user requirement, Design and develop windows application.
+2.	Manage to solve project issues.
+3.	Training User.
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
