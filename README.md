@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<!-- <h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">🛠 Language</h3>
 
-###
+### -->
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
@@ -126,8 +126,6 @@
 1.	Analyze user requirement, Design and develop windows application.
 2.	Manage to solve project issues.
 3.	Training User.
-
-<!-- <h3 align="left">PORTFOLIO LIST</h3> -->
 
 ###
 
