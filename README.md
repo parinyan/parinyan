@@ -91,6 +91,7 @@
 [Fusion Soft Co., Ltd](https://www.fusionsoft.co.th/) 
 <br/>
 **September 2022 – Current** 
+**Backend Developer** 
 <br/>
 1.	Design Database and Develop API by Document SRS.
 2.	Develop Program for SharePoint Migration.
@@ -103,6 +104,7 @@
 [Thai Summit Harness Public Company Limited.](https://www.tshpcl.com/) 
 <br/>
 **August 2018 – August 2022** 
+**Programmer** 
 <br/>
 1.	Design database and develop web application by user requirement.
 2.	Coordinate with suppliers to solve problems on Oracle ERP System.
@@ -116,11 +118,12 @@
 [Maxxis International (Thailand) Co.,Ltd.](https://www.maxxis.co.th/MIT/index.asp) 
 <br/>
 **July 2017 – August 2018** 
+**Programmer** 
 <br/>
 1.	Analyze user requirement, Design and develop windows application.
 2.	Manage to solve project issues.
 3.	Training User.
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">PORTFOLIO LIST</h3>
 
 ###
