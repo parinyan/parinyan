@@ -88,6 +88,8 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberrypi logo"  />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3D5Z63nmcUgC2xfIhaCENsVYM3kJp8CxkkL24qeDXGgAK36dv3gdrNVLJ6s3xG28hA&usqp=CAU" height="40" alt="arduino logo"  />
+  <img src="https://www.tangunsoft.com/storage/admin/editing/1589502536image.png" height="40" alt="devextreme logo"  />
+  
 </div>
 
 ###
