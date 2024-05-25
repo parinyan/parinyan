@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="img/profile.jpg"  />
-</div>
+</div> -->
 
 ###
 
