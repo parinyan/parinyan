@@ -233,18 +233,14 @@
 <!-- <br/>
 **TTB(Migration Data)**  -->
 <br/>
+<img src="img/pot-mi-1_1.jpg">
 8. Bank Documents (TTB)
-<img src="img/pot-bst-1_1.png">
-
 <br/>
 9. Rebuild website for BBD/WB on SharePoint Online (TTB)
-<img src="img/pot-bst-1_1.png"> 
 <br/>
 10. Rebuild website for KMCC on SharePoint Online (TTB)
-<img src="img/pot-bst-1_1.png"> 
 
 <!-- <br/>
 **AJINOMOTO(Migration Data)**  -->
 <br/>
 11. SharePoint AJT Portal Migration (AJINOMOTO)
-<img src="img/pot-bst-1_1.png"> 
