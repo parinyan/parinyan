@@ -79,7 +79,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberrypi logo"  />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
-  <img src="https://media.licdn.com/dms/image/D5612AQE3XK8kOWO8aA/article-cover_image-shrink_600_2000/0/1693403810082?e=2147483647&v=beta&t=ScqaazDRq2pvTBGGxObwPJ8I63ZEhAY20f7T9d8lhLU" height="40" alt="arduino logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3D5Z63nmcUgC2xfIhaCENsVYM3kJp8CxkkL24qeDXGgAK36dv3gdrNVLJ6s3xG28hA&usqp=CAU" height="40" alt="arduino logo"  />
 </div>
 
 ###
