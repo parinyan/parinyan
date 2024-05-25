@@ -147,15 +147,15 @@
 
 <br/>
 2. OE Budget
-<img src="img/pot-bst-1_1.png">
+<img src="img/pot-bst-1_2.png">
 
 <br/>
 3. Document Control
-<img src="img/pot-bst-1_1.png"> 
+<img src="img/pot-bst-1_3.png"> 
 
 <br/>
 4. SharePoint Archiving To Sql Server
-<img src="img/pot-bst-1_1.png"> 
+<!-- <img src="img/pot-bst-1_4.png">  -->
 
 <br/>
 **MITSUBISHI** 
@@ -167,7 +167,7 @@
 **SRI TRANG** 
 <br/>
 1. Web Portal for Customer
-<img src="img/pot-bst-1_1.png"> 
+<img src="img/pot-sta-1_1.jpg"> 
 
 <br/>
 **TTB(Migration Data)** 
