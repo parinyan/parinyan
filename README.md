@@ -165,34 +165,75 @@
 </details>
 
 <br/>
-3. OE Budget (BRIDGESTONE)
-<img src="img/pot-bst-1_2.png">
+<!-- 3. OE Budget (BRIDGESTONE)
+<img src="img/pot-bst-1_2.png"> -->
+<details>
+  <summary>3. OE Budget (BRIDGESTONE)</summary>
+    <div>
+      <samp>
+        <img src="img/pot-bst-1_2.png">
+      </samp>
+    </div>
+</details>
 
 <br/>
-4. Document Control (BRIDGESTONE)
-<img src="img/pot-bst-1_3.png"> 
+<!-- 4. Document Control (BRIDGESTONE)
+<img src="img/pot-bst-1_3.png"> -->
+<details>
+  <summary>4. Document Control (BRIDGESTONE)</summary>
+    <div>
+      <samp>
+        <img src="img/pot-bst-1_3.png">
+      </samp>
+    </div>
+</details>
 
 <br/>
-5. SharePoint Archiving To Sql Server (BRIDGESTONE)
+<!-- 5. SharePoint Archiving To Sql Server (BRIDGESTONE) -->
 <!-- <img src="img/pot-bst-1_4.png">  -->
+<details>
+  <summary>5. SharePoint Archiving To Sql Server (BRIDGESTONE)</summary>
+    <div>
+      <samp>
+        <!-- <img src="img/pot-bst-1_2.png"> -->
+      </samp>
+    </div>
+</details>
 
 <!-- <br/>
 **MITSUBISHI**  -->
 <br/>
-6. Migration e-Cash-Reimburse ECR (MITSUBISHI)
-<img src="img/pot-mmth-1_1.png"> 
+<!-- 6. Migration e-Cash-Reimburse ECR (MITSUBISHI) -->
+<!-- <img src="img/pot-mmth-1_1.png"> -->
+<details>
+  <summary>6. Migration e-Cash-Reimburse ECR (MITSUBISHI)</summary>
+    <div>
+      <samp>
+        <img src="img/pot-mmth-1_1.png">
+      </samp>
+    </div>
+</details>
 
 <!-- <br/>
 **SRI TRANG**  -->
 <br/>
-7. Web Portal for Customer (SRI TRANG)
-<img src="img/pot-sta-1_1.jpg"> 
+<!-- 7. Web Portal for Customer (SRI TRANG)
+<img src="img/pot-sta-1_1.jpg"> -->
+<details>
+  <summary>7. Web Portal for Customer (SRI TRANG)</summary>
+    <div>
+      <samp>
+        <img src="img/pot-sta-1_1.jpg">
+      </samp>
+    </div>
+</details>
 
 <!-- <br/>
 **TTB(Migration Data)**  -->
 <br/>
 8. Bank Documents (TTB)
-<img src="img/pot-bst-1_1.png"> 
+<img src="img/pot-bst-1_1.png">
+
 <br/>
 9. Rebuild website for BBD/WB on SharePoint Online (TTB)
 <img src="img/pot-bst-1_1.png"> 
