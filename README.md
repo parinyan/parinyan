@@ -132,57 +132,57 @@
 ###
 
 ## PORTFOLIO LIST:
+<!-- <br/>
+**BANGCHAK**  -->
 <br/>
-**BANGCHAK** 
-<br/>
-1. Contract Management
+1. Contract Management (BANGCHAK)
 <img src="img/pot-bcp-1_1.png">
 <br/>
 
+<!-- <br/>
+**BRIDGESTONE**  -->
 <br/>
-**BRIDGESTONE** 
-<br/>
-1. Automatic Tire QC Check
+2. Automatic Tire QC Check (BRIDGESTONE)
 <img src="img/pot-bst-1_1.png"> 
 
 <br/>
-2. OE Budget
+3. OE Budget (BRIDGESTONE)
 <img src="img/pot-bst-1_2.png">
 
 <br/>
-3. Document Control
+4. Document Control (BRIDGESTONE)
 <img src="img/pot-bst-1_3.png"> 
 
 <br/>
-4. SharePoint Archiving To Sql Server
+5. SharePoint Archiving To Sql Server (BRIDGESTONE)
 <!-- <img src="img/pot-bst-1_4.png">  -->
 
+<!-- <br/>
+**MITSUBISHI**  -->
 <br/>
-**MITSUBISHI** 
-<br/>
-1. Migration e-Cash-Reimburse ECR
-<img src="img/pot-bst-1_1.png"> 
+6. Migration e-Cash-Reimburse ECR (MITSUBISHI)
+<img src="img/pot-mmth-1_1.png"> 
 
+<!-- <br/>
+**SRI TRANG**  -->
 <br/>
-**SRI TRANG** 
-<br/>
-1. Web Portal for Customer
+7. Web Portal for Customer (SRI TRANG)
 <img src="img/pot-sta-1_1.jpg"> 
 
+<!-- <br/>
+**TTB(Migration Data)**  -->
 <br/>
-**TTB(Migration Data)** 
-<br/>
-1. Bank Documents
+8. Bank Documents (TTB)
 <img src="img/pot-bst-1_1.png"> 
 <br/>
-2. Rebuild website for BBD/WB on SharePoint Online
+9. Rebuild website for BBD/WB on SharePoint Online (TTB)
 <img src="img/pot-bst-1_1.png"> 
 <br/>
-3. Rebuild website for KMCC on SharePoint Online
+10. Rebuild website for KMCC on SharePoint Online (TTB)
 <img src="img/pot-bst-1_1.png"> 
 
+<!-- <br/>
+**AJINOMOTO(Migration Data)**  -->
 <br/>
-**AJINOMOTO(Migration Data)** 
-<br/>
-1. SharePoint AJT Portal Migration (SharePoint Online)
+11. SharePoint AJT Portal Migration (AJINOMOTO)
 <img src="img/pot-bst-1_1.png"> 
