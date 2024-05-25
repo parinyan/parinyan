@@ -150,13 +150,19 @@
     </div>
 </details>
 
-<br/>
-
 <!-- <br/>
 **BRIDGESTONE**  -->
 <br/>
-2. Automatic Tire QC Check (BRIDGESTONE)
-<img src="img/pot-bst-1_1.png"> 
+<!-- 2. Automatic Tire QC Check (BRIDGESTONE)
+<img src="img/pot-bst-1_1.png">  -->
+<details>
+  <summary>2. Automatic Tire QC Check (BRIDGESTONE)</summary>
+    <div>
+      <samp>
+        <img src="img/pot-bst-1_1.png">
+      </samp>
+    </div>
+</details>
 
 <br/>
 3. OE Budget (BRIDGESTONE)
