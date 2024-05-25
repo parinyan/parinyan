@@ -234,8 +234,11 @@
 **TTB(Migration Data)**  -->
 <br/>
 <details>
+  <summary></summary>
     <div>
+      <samp>
         <img src="img/pot-mi-1_1.jpg">
+      </samp>
     </div>
 </details>
 
