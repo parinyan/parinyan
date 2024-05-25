@@ -130,12 +130,57 @@
 ###
 
 ## PORTFOLIO LIST:
+<br/>
 **BANGCHAK** 
 <br/>
 1. Contract Management
 <img src="img/pot-bcp-1_1.png">
+<br/>
 
+<br/>
 **BRIDGESTONE** 
 <br/>
 1. Automatic Tire QC Check
+<img src="img/pot-bst-1_1.png"> 
+
+<br/>
+2. OE Budget
 <img src="img/pot-bst-1_1.png">
+
+<br/>
+3. Document Control
+<img src="img/pot-bst-1_1.png"> 
+
+<br/>
+4. SharePoint Archiving To Sql Server
+<img src="img/pot-bst-1_1.png"> 
+
+<br/>
+**MITSUBISHI** 
+<br/>
+1. Migration e-Cash-Reimburse ECR
+<img src="img/pot-bst-1_1.png"> 
+
+<br/>
+**SRI TRANG** 
+<br/>
+1. Web Portal for Customer
+<img src="img/pot-bst-1_1.png"> 
+
+<br/>
+**TTB(Migration Data)** 
+<br/>
+1. Bank Documents
+<img src="img/pot-bst-1_1.png"> 
+<br/>
+2. Rebuild website for BBD/WB on SharePoint Online
+<img src="img/pot-bst-1_1.png"> 
+<br/>
+3. Rebuild website for KMCC on SharePoint Online
+<img src="img/pot-bst-1_1.png"> 
+
+<br/>
+**AJINOMOTO(Migration Data)** 
+<br/>
+1. SharePoint AJT Portal Migration (SharePoint Online)
+<img src="img/pot-bst-1_1.png"> 
