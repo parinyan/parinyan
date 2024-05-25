@@ -72,13 +72,14 @@
 
 ###
 
-<h3 align="left">🛠 IOT</h3>
+<h3 align="left">🛠 Other</h3>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberrypi logo"  />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mqtt-hor.svg/2560px-Mqtt-hor.svg.png" height="40" alt="arduino logo"  />
 </div>
 
 ###
