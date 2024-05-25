@@ -141,8 +141,15 @@
 <!-- <br/>
 **BANGCHAK**  -->
 <br/>
-1. Contract Management (BANGCHAK)
-<img src="img/pot-bcp-1_1.png">
+<details>
+  <summary>1. Contract Management (BANGCHAK)</summary>
+    <div>
+      <samp>
+        <img src="img/pot-bcp-1_1.png">
+      </samp>
+    </div>
+</details>
+
 <br/>
 
 <!-- <br/>
