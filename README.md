@@ -79,7 +79,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberrypi logo"  />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mqtt-hor.svg/2560px-Mqtt-hor.svg.png" height="40" alt="arduino logo"  />
+  <img src="https://media.licdn.com/dms/image/D5612AQE3XK8kOWO8aA/article-cover_image-shrink_600_2000/0/1693403810082?e=2147483647&v=beta&t=ScqaazDRq2pvTBGGxObwPJ8I63ZEhAY20f7T9d8lhLU" height="40" alt="arduino logo"  />
 </div>
 
 ###
