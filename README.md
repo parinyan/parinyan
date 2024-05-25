@@ -69,7 +69,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://logodix.com/logo/2030520.png" height="40" alt="qlikview logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0z68y99HfM6xgHj-GJYEBy-OzYF2SAhSibIfYG75bgXHyvTAupfWiMX3ZxUHfXWvsQ&usqp=CAU" height="40" alt="qlikview logo"  />
 </div>
 
 ###
