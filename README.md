@@ -233,7 +233,12 @@
 <!-- <br/>
 **TTB(Migration Data)**  -->
 <br/>
-<img src="img/pot-mi-1_1.jpg">
+<details>
+    <div>
+        <img src="img/pot-mi-1_1.jpg">
+    </div>
+</details>
+
 8. Bank Documents (TTB)
 <br/>
 9. Rebuild website for BBD/WB on SharePoint Online (TTB)
@@ -245,6 +250,8 @@
 <br/>
 11. SharePoint AJT Portal Migration (AJINOMOTO)
 
+<br/>
+<br/>
 <br/>
 <details>
   <summary>12. KPI System</summary>
