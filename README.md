@@ -244,3 +244,53 @@
 **AJINOMOTO(Migration Data)**  -->
 <br/>
 11. SharePoint AJT Portal Migration (AJINOMOTO)
+
+<br/>
+<details>
+  <summary>12. KPI System</summary>
+    <div>
+      <samp>
+        <img src="img/pot-tsh-1_1.png">
+      </samp>
+    </div>
+</details>
+
+<br/>
+<details>
+  <summary>13. Smart Factory</summary>
+    <div>
+      <samp>
+        <img src="img/pot-tsh-1_2.png">
+      </samp>
+    </div>
+</details>
+
+<br/>
+<details>
+  <summary>13. Delivery Tracking</summary>
+    <div>
+      <samp>
+        <img src="img/pot-tsh-1_3.png">
+      </samp>
+    </div>
+</details>
+
+<br/>
+<details>
+  <summary>14. Shortage by Order</summary>
+    <div>
+      <samp>
+        <img src="img/pot-tsh-1_4.png">
+      </samp>
+    </div>
+</details>
+
+<br/>
+<details>
+  <summary>15. Shipping Schedule</summary>
+    <div>
+      <samp>
+        <img src="img/pot-tsh-1_5.png">
+      </samp>
+    </div>
+</details>
