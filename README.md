@@ -192,6 +192,8 @@
 
 <br/>
 5. SharePoint Archiving To Sql Server (BRIDGESTONE)
+<br/>
+<br/>
 <!-- <img src="img/pot-bst-1_4.png">  -->
 <!-- <details>
   <summary>5. SharePoint Archiving To Sql Server (BRIDGESTONE)</summary>
