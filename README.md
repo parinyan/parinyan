@@ -269,7 +269,7 @@
 
 <br/>
 <details>
-  <summary>13. Smart Factory (Thai Summit)</summary>
+  <summary>13. Smart Factory (THAI SUMMIT)</summary>
     <div>
       <samp>
         <img src="img/pot-tsh-1_2.png">
@@ -279,7 +279,7 @@
 
 <br/>
 <details>
-  <summary>13. Delivery Tracking (Thai Summit)</summary>
+  <summary>13. Delivery Tracking (THAI SUMMIT)</summary>
     <div>
       <samp>
         <img src="img/pot-tsh-1_3.png">
@@ -289,7 +289,7 @@
 
 <br/>
 <details>
-  <summary>14. Shortage by Order (Thai Summit)</summary>
+  <summary>14. Shortage by Order (THAI SUMMIT)</summary>
     <div>
       <samp>
         <img src="img/pot-tsh-1_4.png">
