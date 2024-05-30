@@ -259,7 +259,7 @@
 <br/>
 <br/>
 <details>
-  <summary>12. KPI System (Thai Summit)</summary>
+  <summary>12. KPI System (THAI SUMMIT)</summary>
     <div>
       <samp>
         <img src="img/pot-tsh-1_1.png">
