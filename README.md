@@ -191,16 +191,16 @@
 </details>
 
 <br/>
-<!-- 5. SharePoint Archiving To Sql Server (BRIDGESTONE) -->
+5. SharePoint Archiving To Sql Server (BRIDGESTONE)
 <!-- <img src="img/pot-bst-1_4.png">  -->
-<details>
+<!-- <details>
   <summary>5. SharePoint Archiving To Sql Server (BRIDGESTONE)</summary>
     <div>
       <samp>
-        <!-- <img src="img/pot-bst-1_2.png"> -->
+        <img src="img/pot-bst-1_2.png">
       </samp>
     </div>
-</details>
+</details> -->
 
 <!-- <br/>
 **MITSUBISHI**  -->
