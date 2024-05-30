@@ -191,7 +191,7 @@
 </details>
 
 <br/>
-&nbsp;&nbsp;5. SharePoint Archiving To Sql Server (BRIDGESTONE)
+&nbsp;&nbsp;&nbsp;5. SharePoint Archiving To Sql Server (BRIDGESTONE)
 <br/>
 <br/>
 <!-- <img src="img/pot-bst-1_4.png">  -->
@@ -244,11 +244,11 @@
     </div>
 </details>
 <br/>
-8. Bank Documents (TTB)
+&nbsp;&nbsp;&nbsp;8. Bank Documents (TTB)
 <br/>
-9. Rebuild website for BBD/WB on SharePoint Online (TTB)
+&nbsp;&nbsp;&nbsp;9. Rebuild website for BBD/WB on SharePoint Online (TTB)
 <br/>
-10. Rebuild website for KMCC on SharePoint Online (TTB)
+&nbsp;&nbsp;&nbsp;10. Rebuild website for KMCC on SharePoint Online (TTB)
 
 <!-- <br/>
 **AJINOMOTO(Migration Data)**  -->
