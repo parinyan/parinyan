@@ -259,7 +259,7 @@
 <br/>
 <br/>
 <details>
-  <summary>12. KPI System</summary>
+  <summary>12. KPI System (Thai Summit)</summary>
     <div>
       <samp>
         <img src="img/pot-tsh-1_1.png">
@@ -269,7 +269,7 @@
 
 <br/>
 <details>
-  <summary>13. Smart Factory</summary>
+  <summary>13. Smart Factory (Thai Summit)</summary>
     <div>
       <samp>
         <img src="img/pot-tsh-1_2.png">
@@ -279,7 +279,7 @@
 
 <br/>
 <details>
-  <summary>13. Delivery Tracking</summary>
+  <summary>13. Delivery Tracking (Thai Summit)</summary>
     <div>
       <samp>
         <img src="img/pot-tsh-1_3.png">
@@ -289,7 +289,7 @@
 
 <br/>
 <details>
-  <summary>14. Shortage by Order</summary>
+  <summary>14. Shortage by Order (Thai Summit)</summary>
     <div>
       <samp>
         <img src="img/pot-tsh-1_4.png">
@@ -299,10 +299,50 @@
 
 <br/>
 <details>
-  <summary>15. Shipping Schedule</summary>
+  <summary>15. Shipping Schedule (THAI SUMMIT)</summary>
     <div>
       <samp>
         <img src="img/pot-tsh-1_5.png">
+      </samp>
+    </div>
+</details>
+
+<br/>
+<details>
+  <summary>16. Building System (MAXXIS)</summary>
+    <div>
+      <samp>
+        <img src="img/pot-max-1_1.png">
+      </samp>
+    </div>
+</details>
+
+<br/>
+<details>
+  <summary>17. Building VMI (MAXXIS)</summary>
+    <div>
+      <samp>
+        <img src="img/pot-max-1_2.png">
+      </samp>
+    </div>
+</details>
+
+<br/>
+<details>
+  <summary>18. Weight Tbr (MAXXIS)</summary>
+    <div>
+      <samp>
+        <img src="img/pot-max-1_3.png">
+      </samp>
+    </div>
+</details>
+
+<br/>
+<details>
+  <summary>19. FIFO (MAXXIS)</summary>
+    <div>
+      <samp>
+        <img src="img/pot-max-1_4.png">
       </samp>
     </div>
 </details>
