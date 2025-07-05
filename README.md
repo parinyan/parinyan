@@ -95,12 +95,25 @@
 ###
 
 ## Experience:
+![GC Maintenance and Engineering Co., Ltd.](img/logo-gcme.png)
+<br/>
+[GC Maintenance and Engineering Co., Ltd.](https://gcme.co.th) 
+<br/>
+**Jun 2024 - Current** 
+<br/>
+**Backend Developer** 
+<br/>
+1.	Design Database and Develop API by Document SRS.
+2.	Develop Program for SharePoint Migration.
+3.	Check and improve to solve project issues.
+4.	Build and install API for Windows Server.
+5.	Create document for Technical Specification.
 
 ![Fusion Soft Co., Ltd](img/logo-fusion.png)
 <br/>
 [Fusion Soft Co., Ltd](https://www.fusionsoft.co.th/) 
 <br/>
-**September 2022 – Current** 
+**September 2022 – Jun 2024** 
 <br/>
 **Backend Developer** 
 <br/>
