@@ -27,11 +27,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://img.shields.io/badge/PHP-777bb3?logo=php&logoColor=white&style=for-the-badge" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge" height="40" alt="ionic logo"  />
   <img width="12" />
@@ -74,8 +74,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0z68y99HfM6xgHj-GJYEBy-OzYF2SAhSibIfYG75bgXHyvTAupfWiMX3ZxUHfXWvsQ&usqp=CAU" height="40" alt="qlikview logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/QlikView-009848?logo=Qlik&logoColor=white&style=for-the-badge" height="40" alt="qlikview logo"  />
 </div>
 
 ###
@@ -87,8 +87,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberrypi logo"  />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3D5Z63nmcUgC2xfIhaCENsVYM3kJp8CxkkL24qeDXGgAK36dv3gdrNVLJ6s3xG28hA&usqp=CAU" height="40" alt="arduino logo"  />
-  <img src="https://www.tangunsoft.com/storage/admin/editing/1589502536image.png" height="40" alt="devextreme logo"  />
+  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white&style=for-the-badge" style="width:180px;height:28px;" alt="mqtt logo"  />
+  <img src="https://img.shields.io/badge/DevExtreme-blue?logo=devexpress&logoColor=white&style=for-the-badge" height="40" alt="devextreme logo"  />
   
 </div>
 
