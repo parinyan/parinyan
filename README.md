@@ -1,4 +1,12 @@
 <!-- Profile Picture (Optional) -->
+<h1 align="center">Hi there 👋, I'm Parinya</h1>
+
+<h3 align="center">Software Developer</h3>
+
+<p align="center">
+  Passionate about crafting efficient backend systems, data-driven apps, and integrating with modern frameworks.<br/>
+  Constantly learning and exploring new tech. 🚀
+</p>
 <!--
 <div align="center">
   <img height="150" src="img/profile.jpg" />
@@ -119,8 +127,7 @@
 
 ---
 
-<div align="left"> 
-  <a href="tel:+66814286857" target="_blank"> <img src="https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="40" /> </a> 
-  <a href="https://line.me/ti/p/aeTNlEBCDo" target="_blank"> <img src="https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=white&style=for-the-badge" height="40" /> </a> 
-  <a href="parinyanamchan3794@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" /> </a>
-</div>
+## 📫 Contact Me
+
+- 📞 **Phone:** +66 90 123 4567
+- 📧 **Email:** parinyanamchan3794@gmail.com
