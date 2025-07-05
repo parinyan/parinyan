@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
-  <img width="5" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/QlikView-009848?logo=Qlik&logoColor=white&style=for-the-badge" height="40" alt="qlikview logo"  />
 </div>
 
@@ -87,26 +87,27 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberrypi logo"  />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
-  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white&style=for-the-badge" style="width:180px;height:28px;" alt="mqtt logo"  />
+  <img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white&style=for-the-badge" height="40" alt="mqtt logo"  />
   <img src="https://img.shields.io/badge/DevExtreme-blue?logo=devexpress&logoColor=white&style=for-the-badge" height="40" alt="devextreme logo"  />
-  
+  <img src="https://img.shields.io/badge/autodesk-000000?logo=autodesk&logoColor=white&style=for-the-badge" height="40" alt="autodesk logo"  />
+  <img src="https://img.shields.io/badge/azure%20ad-03A9F4?logo=icloud&logoColor=white&style=for-the-badge" height="40" alt="mqtt logo"  />
 </div>
 
 ###
 
 ## Experience:
-![GC Maintenance and Engineering Co., Ltd.](img/logo-gcme.png)
+![GC Maintenance and Engineering Co., Ltd.](img/gcme.png)
 <br/>
 [GC Maintenance and Engineering Co., Ltd.](https://gcme.co.th) 
 <br/>
 **Jun 2024 - Current** 
 <br/>
-**Backend Developer** 
+**Software Developer** 
 <br/>
-1.	Design Database and Develop API by Document SRS.
-2.	Develop Program for SharePoint Migration.
-3.	Check and improve to solve project issues.
-4.	Build and install API for Windows Server.
+1.	Analyze user requirement
+2.	Design Backend, Frontend and Develop Web Application.
+3.	Check and Improve to solve project issues.
+4.	Build and install Web Application (QA, Production).
 5.	Create document for Technical Specification.
 
 ![Fusion Soft Co., Ltd](img/logo-fusion.png)
@@ -119,7 +120,7 @@
 <br/>
 1.	Design Database and Develop API by Document SRS.
 2.	Develop Program for SharePoint Migration.
-3.	Check and improve to solve project issues.
+3.	Check and Improve to solve project issues.
 4.	Build and install API for Windows Server.
 5.	Create document for Technical Specification.
 
@@ -131,7 +132,7 @@
 <br/>
 **Programmer** 
 <br/>
-1.	Design database and develop web application by user requirement.
+1.	Design Database and Develop web application by user requirement.
 2.	Coordinate with suppliers to solve problems on Oracle ERP System.
 3.	Design report using program QlikView by user requirement. 
 4.	Check and improve to solve project issues.
@@ -149,213 +150,3 @@
 1.	Analyze user requirement, Design and develop windows application.
 2.	Manage to solve project issues.
 3.	Training User.
-
-###
-
-## PORTFOLIO LIST:
-<!-- <br/>
-**BANGCHAK**  -->
-<br/>
-<details>
-  <summary>1. Contract Management (BANGCHAK)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-bcp-1_1.png">
-      </samp>
-    </div>
-</details>
-
-<!-- <br/>
-**BRIDGESTONE**  -->
-<br/>
-<!-- 2. Automatic Tire QC Check (BRIDGESTONE)
-<img src="img/pot-bst-1_1.png">  -->
-<details>
-  <summary>2. Automatic Tire QC Check (BRIDGESTONE)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-bst-1_1.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-<!-- 3. OE Budget (BRIDGESTONE)
-<img src="img/pot-bst-1_2.png"> -->
-<details>
-  <summary>3. OE Budget (BRIDGESTONE)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-bst-1_2.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-<!-- 4. Document Control (BRIDGESTONE)
-<img src="img/pot-bst-1_3.png"> -->
-<details>
-  <summary>4. Document Control (BRIDGESTONE)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-bst-1_3.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-&nbsp;&nbsp;&nbsp;5. SharePoint Archiving To Sql Server (BRIDGESTONE)
-<br/>
-<br/>
-<!-- <img src="img/pot-bst-1_4.png">  -->
-<!-- <details>
-  <summary>5. SharePoint Archiving To Sql Server (BRIDGESTONE)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-bst-1_2.png">
-      </samp>
-    </div>
-</details> -->
-
-<!-- <br/>
-**MITSUBISHI**  -->
-<br/>
-<!-- 6. Migration e-Cash-Reimburse ECR (MITSUBISHI) -->
-<!-- <img src="img/pot-mmth-1_1.png"> -->
-<details>
-  <summary>6. Migration e-Cash-Reimburse ECR (MITSUBISHI)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-mmth-1_1.png">
-      </samp>
-    </div>
-</details>
-
-<!-- <br/>
-**SRI TRANG**  -->
-<br/>
-<!-- 7. Web Portal for Customer (SRI TRANG)
-<img src="img/pot-sta-1_1.jpg"> -->
-<details>
-  <summary>7. Web Portal for Customer (SRI TRANG)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-sta-1_1.jpg">
-      </samp>
-    </div>
-</details>
-
-<!-- <br/>
-**TTB(Migration Data)**  -->
-<br/>
-<details>
-  <summary></summary>
-    <div>
-      <samp>
-        <img src="img/pot-mi-1_1.jpg">
-      </samp>
-    </div>
-</details>
-<br/>
-&nbsp;&nbsp;&nbsp;8. Bank Documents (TTB)
-<br/>
-&nbsp;&nbsp;&nbsp;9. Rebuild website for BBD/WB on SharePoint Online (TTB)
-<br/>
-&nbsp;&nbsp;&nbsp;10. Rebuild website for KMCC on SharePoint Online (TTB)
-
-<!-- <br/>
-**AJINOMOTO(Migration Data)**  -->
-<br/>
-&nbsp;&nbsp;&nbsp;11. SharePoint AJT Portal Migration (AJINOMOTO)
-
-<br/>
-<br/>
-<br/>
-<details>
-  <summary>12. KPI System (THAI SUMMIT)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-tsh-1_1.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-<details>
-  <summary>13. Smart Factory (THAI SUMMIT)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-tsh-1_2.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-<details>
-  <summary>13. Delivery Tracking (THAI SUMMIT)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-tsh-1_3.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-<details>
-  <summary>14. Shortage by Order (THAI SUMMIT)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-tsh-1_4.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-<details>
-  <summary>15. Shipping Schedule (THAI SUMMIT)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-tsh-1_5.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-<details>
-  <summary>16. Building System (MAXXIS)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-max-1_1.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-<details>
-  <summary>17. Building VMI (MAXXIS)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-max-1_2.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-<details>
-  <summary>18. Weight Tbr (MAXXIS)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-max-1_3.png">
-      </samp>
-    </div>
-</details>
-
-<br/>
-<details>
-  <summary>19. FIFO (MAXXIS)</summary>
-    <div>
-      <samp>
-        <img src="img/pot-max-1_4.png">
-      </samp>
-    </div>
-</details>
