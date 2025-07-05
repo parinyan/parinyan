@@ -118,3 +118,9 @@
 - Assisted with debugging and issue resolution.
 
 ---
+
+<div align="left"> 
+  <a href="tel:+66814286857" target="_blank"> <img src="https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="40" /> </a> 
+  <a href="https://line.me/ti/p/aeTNlEBCDo" target="_blank"> <img src="https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=white&style=for-the-badge" height="40" /> </a> 
+  <a href="parinyanamchan3794@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" /> </a>
+</div>
