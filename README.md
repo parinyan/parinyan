@@ -129,5 +129,5 @@
 
 ## 📫 Contact Me
 
-- 📞 **Phone:** +66 90 123 4567
+- 📞 **Phone:** +66 81 428 6857
 - 📧 **Email:** parinyanamchan3794@gmail.com
